@@ -1,0 +1,19 @@
+{
+    "Dog": {
+      "id": 1,
+      "nombre": "Sushi",
+      "ListaCat": [
+        {
+          "id": 1,
+          "nombre": "Mittens"
+        }
+      ],
+      "ListaFelinos": [
+        {
+          "id": 1,
+          "nombre": "Tigre Bengala"
+        }
+      ]
+    }
+  }
+  
